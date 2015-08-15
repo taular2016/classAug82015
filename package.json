@@ -1,0 +1,29 @@
+{
+  "name": "classaug82015",
+  "version": "1.0.0",
+  "description": "web page example in class",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taular2016/classAug82015.git"
+  },
+  "keywords": [
+    "class",
+    "HTML",
+    "CSS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taular2016/classAug82015/issues"
+  },
+  "homepage": "https://github.com/taular2016/classAug82015#readme"
+}
